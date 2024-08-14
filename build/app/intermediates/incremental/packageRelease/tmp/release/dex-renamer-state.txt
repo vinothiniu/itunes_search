@@ -1,0 +1,4 @@
+#Wed Aug 14 12:57:27 IST 2024
+base.0=/home/web_standby2/Documents/GitHub/itunes_search/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

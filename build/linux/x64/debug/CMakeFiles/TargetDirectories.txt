@@ -1,0 +1,14 @@
+/var/www/html/Github/itunes_search/build/linux/x64/debug/CMakeFiles/install/strip.dir
+/var/www/html/Github/itunes_search/build/linux/x64/debug/CMakeFiles/install.dir
+/var/www/html/Github/itunes_search/build/linux/x64/debug/CMakeFiles/list_install_components.dir
+/var/www/html/Github/itunes_search/build/linux/x64/debug/CMakeFiles/rebuild_cache.dir
+/var/www/html/Github/itunes_search/build/linux/x64/debug/CMakeFiles/edit_cache.dir
+/var/www/html/Github/itunes_search/build/linux/x64/debug/CMakeFiles/install/local.dir
+/var/www/html/Github/itunes_search/build/linux/x64/debug/CMakeFiles/itunes_search.dir
+/var/www/html/Github/itunes_search/build/linux/x64/debug/flutter/CMakeFiles/install/strip.dir
+/var/www/html/Github/itunes_search/build/linux/x64/debug/flutter/CMakeFiles/install/local.dir
+/var/www/html/Github/itunes_search/build/linux/x64/debug/flutter/CMakeFiles/install.dir
+/var/www/html/Github/itunes_search/build/linux/x64/debug/flutter/CMakeFiles/list_install_components.dir
+/var/www/html/Github/itunes_search/build/linux/x64/debug/flutter/CMakeFiles/rebuild_cache.dir
+/var/www/html/Github/itunes_search/build/linux/x64/debug/flutter/CMakeFiles/edit_cache.dir
+/var/www/html/Github/itunes_search/build/linux/x64/debug/flutter/CMakeFiles/flutter_assemble.dir
